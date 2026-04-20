@@ -43,7 +43,7 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/springhawk
+git clone https://github.com/Juan1913/springhawk-Spring-Boot-Security-Scanner-.git
 cd springhawk
 make build
 # Binario en dist/springhawk
@@ -61,7 +61,7 @@ sudo make install
 ### `scan` — Escaneo remoto activo
 
 ```bash
-springhawk scan -t https://mi-app.com
+springhawk scan -t https://example-app.com
 ```
 
 Ejecuta tres fases en orden:
