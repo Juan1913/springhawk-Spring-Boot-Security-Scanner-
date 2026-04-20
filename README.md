@@ -31,7 +31,7 @@
 |___/ .__/_| |_|_||_\__, | \___/\__,_|\_/\_/ |_\_\
     |_|              |___/
 
-        "We are anonymous. We do not forgive vulnerabilities."
+       
 ```
 
 **Spring Boot Security Scanner** — pentest y auditoría de aplicaciones Spring Boot, tanto en local como en producción.
